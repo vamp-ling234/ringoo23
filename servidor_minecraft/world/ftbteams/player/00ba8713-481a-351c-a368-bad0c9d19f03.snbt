@@ -1,0 +1,19 @@
+{
+	id: "00ba8713-481a-351c-a368-bad0c9d19f03"
+	type: "player"
+	player_name: "Wlax"
+	ranks: {
+		00ba8713-481a-351c-a368-bad0c9d19f03: "owner"
+	}
+	properties: {
+		"teamsfriendlyfire:pvp_between_members": 0b
+		"teamsfriendlyfire:pvp_between_allies": 0b
+		"ftbteams:display_name": "Wlax"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFE2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

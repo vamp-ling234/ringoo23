@@ -1,0 +1,19 @@
+{
+	id: "afcc0bb3-48b9-4c6b-9d62-9895e772eadb"
+	type: "party"
+	owner: "0bdc3c98-e4a0-3902-8d49-26ad96fa683f"
+	ranks: {
+		0bdc3c98-e4a0-3902-8d49-26ad96fa683f: "owner"
+	}
+	properties: {
+		"teamsfriendlyfire:pvp_between_members": 0b
+		"teamsfriendlyfire:pvp_between_allies": 0b
+		"ftbteams:display_name": "putps"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59BCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1786068953389L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Anubis_11\"}]}" }]
+	extra: { }
+}

@@ -1,0 +1,19 @@
+{
+	id: "3dd7239d-b3eb-39bc-adfc-5add3f237d18"
+	type: "player"
+	player_name: "xClas06"
+	ranks: {
+		3dd7239d-b3eb-39bc-adfc-5add3f237d18: "owner"
+	}
+	properties: {
+		"teamsfriendlyfire:pvp_between_members": 0b
+		"teamsfriendlyfire:pvp_between_allies": 0b
+		"ftbteams:display_name": "xClas06"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,19 @@
+{
+	id: "62ce933d-669a-3e80-a037-56044a85235c"
+	type: "player"
+	player_name: "emilaviv"
+	ranks: {
+		62ce933d-669a-3e80-a037-56044a85235c: "owner"
+	}
+	properties: {
+		"teamsfriendlyfire:pvp_between_members": 0b
+		"teamsfriendlyfire:pvp_between_allies": 0b
+		"ftbteams:display_name": "emilaviv"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFD"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

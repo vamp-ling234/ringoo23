@@ -1,0 +1,2310 @@
+{
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/shroomlamp": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:11 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/enigmatic_elytra": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_boots_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/iron_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/ender_slayer": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/infinimeal": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/materials/pure_heart": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/violence_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/quartz_scepter": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/etherium_axe": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/fabulous_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/adventure_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/twisted_mirror": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mending_mixture": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/chaos_elytra": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2026-08-07 00:07:19 +0000",
+      "rocky_shrubland": "2026-08-07 01:08:57 +0000",
+      "scrubland": "2026-08-13 02:48:24 +0000",
+      "erupting_inferno": "2026-08-15 19:19:44 +0000",
+      "floodplain": "2026-08-06 22:30:25 +0000",
+      "highland": "2026-08-07 00:47:11 +0000",
+      "maple_woods": "2026-08-07 00:32:25 +0000",
+      "crystalline_chasm": "2026-08-08 05:57:11 +0000",
+      "withered_abyss": "2026-08-08 05:57:16 +0000",
+      "field": "2026-08-07 00:40:40 +0000",
+      "orchard": "2026-08-12 22:57:02 +0000",
+      "moor": "2026-08-06 22:45:30 +0000",
+      "overgrown_greens": "2026-08-06 22:25:12 +0000",
+      "coniferous_forest": "2026-08-07 00:42:23 +0000",
+      "forested_field": "2026-08-07 00:32:43 +0000",
+      "redwood_forest": "2026-08-07 01:52:11 +0000",
+      "aspen_glade": "2026-08-07 00:52:43 +0000",
+      "dead_forest": "2026-08-13 03:11:10 +0000",
+      "fir_clearing": "2026-08-07 00:47:34 +0000",
+      "pumpkin_patch": "2026-08-07 00:54:02 +0000",
+      "grassland": "2026-08-06 22:44:16 +0000",
+      "prairie": "2026-08-07 21:34:22 +0000",
+      "glowing_grotto": "2026-08-06 22:45:37 +0000",
+      "gravel_beach": "2026-08-07 00:31:01 +0000",
+      "rainforest": "2026-08-06 22:26:02 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/armor/etherium_armor": {
+    "criteria": {
+      "has_the_recipe2": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/forbidden_axe": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/night_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/mining_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "vintageimprovements:root": {
+    "criteria": {
+      "0": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/ode_to_living": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/totem_of_malice": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/root": {
+    "criteria": {
+      "requirement": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:repair_natures_compass": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/etherium_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/chameleon_armor": {
+    "criteria": {
+      "has_helm_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ender_rod": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/curse_transposer": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/astral_breaker": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/cursed_stone": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/cosmic_cake": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/the_bless": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/escape_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/cosmic_heart": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/disaster_sword": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/earth_promise": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/ichoroot": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/astral_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/thunder_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/false_justice": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/quartz_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/bless_amplifier": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/astral_potato": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/ichor_spear": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/soul_compass": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/root": {
+    "criteria": {
+      "gun": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "overgrown_greens": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/scorched_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/extradimensional_scepter": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2026-08-06 22:25:12 +0000",
+      "inv_changed-diamond": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/infernal_shield": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/enchanter_pearl": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/etherium_sword": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermolith": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/the_twist": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/etherium_scythe": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/evil_dagger": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/tools/dragon_bow": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/the_infinitum": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/bless_stone": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/eldritch_pan": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/avarice_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/etherium_shovel": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/accessories/cursed_xp_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/desolation_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/berserk_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "has_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/cursed_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/misc/sanguinary_handbook": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2026-08-06 22:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-08-13 03:08:05 +0000",
+      "minecraft:frozen_river": "2026-08-13 03:15:32 +0000",
+      "minecraft:sunflower_plains": "2026-08-08 06:15:36 +0000",
+      "minecraft:birch_forest": "2026-08-13 03:07:56 +0000",
+      "minecraft:beach": "2026-08-06 22:28:02 +0000",
+      "minecraft:dark_forest": "2026-08-06 22:44:48 +0000",
+      "minecraft:river": "2026-08-06 23:40:04 +0000",
+      "minecraft:dripstone_caves": "2026-08-13 03:35:40 +0000",
+      "minecraft:snowy_taiga": "2026-08-13 03:17:31 +0000",
+      "minecraft:grove": "2026-08-13 03:16:04 +0000",
+      "minecraft:jagged_peaks": "2026-08-13 03:19:57 +0000",
+      "minecraft:cold_ocean": "2026-08-07 00:27:47 +0000",
+      "minecraft:forest": "2026-08-07 01:15:16 +0000",
+      "minecraft:deep_cold_ocean": "2026-08-07 00:27:53 +0000",
+      "minecraft:ocean": "2026-08-06 22:28:17 +0000",
+      "minecraft:flower_forest": "2026-08-08 06:15:21 +0000",
+      "minecraft:old_growth_birch_forest": "2026-08-07 01:10:19 +0000",
+      "minecraft:savanna": "2026-08-13 02:49:32 +0000",
+      "minecraft:plains": "2026-08-07 01:59:59 +0000"
+    },
+    "done": false
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2026-08-06 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2026-08-06 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "thinair:protection_from_red": {
+    "criteria": {
+      "protecc": "2026-08-06 22:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-08-06 22:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2026-08-07 00:37:48 +0000",
+      "honey_bottle": "2026-08-11 03:52:39 +0000",
+      "cooked_mutton": "2026-08-08 04:46:04 +0000",
+      "baked_potato": "2026-08-07 20:13:48 +0000",
+      "apple": "2026-08-15 19:22:09 +0000",
+      "potato": "2026-08-07 02:18:09 +0000",
+      "rabbit": "2026-08-10 18:55:38 +0000",
+      "pumpkin_pie": "2026-08-13 03:03:39 +0000",
+      "mutton": "2026-08-08 06:12:17 +0000",
+      "bread": "2026-08-06 22:41:33 +0000",
+      "golden_apple": "2026-08-10 04:42:19 +0000",
+      "rotten_flesh": "2026-08-11 21:26:41 +0000",
+      "salmon": "2026-08-11 02:55:17 +0000",
+      "dried_kelp": "2026-08-11 03:45:41 +0000",
+      "melon_slice": "2026-08-06 22:30:06 +0000",
+      "golden_carrot": "2026-08-13 02:20:59 +0000",
+      "cooked_rabbit": "2026-08-10 18:57:06 +0000",
+      "cooked_chicken": "2026-08-10 04:16:57 +0000",
+      "carrot": "2026-08-06 22:48:32 +0000"
+    },
+    "done": false
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2026-08-06 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2026-08-06 22:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-08-06 22:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-08-06 22:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-08-07 23:29:15 +0000",
+      "minecraft:blaze": "2026-08-11 20:52:42 +0000",
+      "minecraft:skeleton": "2026-08-06 23:55:41 +0000",
+      "minecraft:vindicator": "2026-08-06 23:52:21 +0000",
+      "minecraft:spider": "2026-08-06 22:38:07 +0000",
+      "minecraft:creeper": "2026-08-07 20:58:09 +0000",
+      "minecraft:phantom": "2026-08-10 04:55:37 +0000",
+      "minecraft:zombified_piglin": "2026-08-15 19:20:55 +0000",
+      "minecraft:wither_skeleton": "2026-08-15 19:28:36 +0000",
+      "minecraft:husk": "2026-08-08 07:54:15 +0000",
+      "minecraft:enderman": "2026-08-08 00:03:05 +0000",
+      "minecraft:stray": "2026-08-13 19:43:57 +0000",
+      "minecraft:zombie": "2026-08-06 22:33:49 +0000",
+      "minecraft:drowned": "2026-08-06 22:37:50 +0000",
+      "minecraft:zombie_villager": "2026-08-08 17:55:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-08-06 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-08-06 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2026-08-06 22:39:49 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2026-08-06 22:45:24 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_mountains": "2026-08-13 03:10:16 +0000",
+      "in_village_birch": "2026-08-06 22:50:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2026-08-06 22:52:02 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll": {
+    "criteria": {
+      "find": "2026-08-06 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "tetra:scrolls/root": {
+    "criteria": {
+      "find": "2026-08-06 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2026-08-06 22:53:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-08-06 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2026-08-06 22:55:10 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2026-08-06 22:55:10 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2026-08-06 22:55:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2026-08-06 22:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-08-06 23:42:56 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:barrel_success": {
+    "criteria": {
+      "barrel_success_0": "2026-08-06 23:43:20 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_slayer_success": {
+    "criteria": {
+      "goblins_slayer_success_0": "2026-08-06 23:43:34 +0000"
+    },
+    "done": true
+  },
+  "goblins_tyranny:goblins_encounter_success": {
+    "criteria": {
+      "goblins_encounter_success_0": "2026-08-06 23:43:35 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_oak": "2026-08-06 23:51:22 +0000"
+    },
+    "done": false
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2026-08-06 23:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2026-08-06 23:51:49 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2026-08-06 23:51:49 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2026-08-06 23:51:51 +0000"
+    },
+    "done": true
+  },
+  "thinair:soul": {
+    "criteria": {
+      "bad_air": "2026-08-06 23:55:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2026-08-07 00:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-08-07 00:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2026-08-07 00:04:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-08-07 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "cartographer": "2026-08-13 02:38:37 +0000",
+      "farmer": "2026-08-07 00:08:52 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2026-08-07 00:09:03 +0000",
+      "entered_druid_circle": "2026-08-08 06:14:39 +0000",
+      "entered_castle": "2026-08-07 00:32:34 +0000",
+      "entered_ruined_building": "2026-08-07 00:20:11 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_tower_of_the_undead": "2026-08-07 00:09:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2026-08-07 00:15:32 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2026-08-07 23:23:38 +0000",
+      "huntingpost": "2026-08-13 02:11:54 +0000",
+      "cartographytable": "2026-08-13 02:35:31 +0000",
+      "fletchingtable": "2026-08-07 00:18:16 +0000",
+      "smithingtable": "2026-08-12 23:29:17 +0000",
+      "blastfurnace": "2026-08-07 23:25:36 +0000",
+      "stonecutter": "2026-08-07 05:03:37 +0000",
+      "composter": "2026-08-13 02:31:46 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "fletchingtable": "2026-08-07 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2026-08-08 17:30:11 +0000",
+      "wheat": "2026-08-07 00:23:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-08-07 00:23:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_castle": "2026-08-07 00:32:34 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2026-08-07 00:32:34 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:cabin_village": {
+    "criteria": {
+      "in_cabin_village": "2026-08-07 00:41:20 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2026-08-07 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2026-08-07 00:57:11 +0000",
+      "1": "2026-08-07 00:57:36 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2026-08-07 00:57:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-08-07 00:57:48 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2026-08-07 01:08:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-08-07 01:17:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2026-08-07 02:40:04 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/gunpowder": {
+    "criteria": {
+      "gunpowder": "2026-08-07 03:42:52 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2026-08-07 04:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2026-08-07 19:55:34 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_eye": {
+    "criteria": {
+      "impossible": "2026-08-07 20:08:57 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_spellstone": {
+    "criteria": {
+      "spellstone": "2026-08-07 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/golem_heart": {
+    "criteria": {
+      "has_items": "2026-08-07 20:29:55 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/all_spellstones": {
+    "criteria": {
+      "spellstone2": "2026-08-07 20:30:16 +0000",
+      "spellstone1": "2026-08-07 20:29:55 +0000",
+      "spellstone4": "2026-08-13 02:55:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/the_cube": {
+    "criteria": {
+      "has_item_1": "2026-08-07 20:29:55 +0000",
+      "has_item_2": "2026-08-07 20:30:16 +0000",
+      "has_item_4": "2026-08-13 02:55:10 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/relics/angel_blessing": {
+    "criteria": {
+      "has_items": "2026-08-07 20:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2026-08-07 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-08-07 23:29:15 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-08-08 04:27:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2026-08-08 05:29:37 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2026-08-08 05:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-08-08 05:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-08-08 05:57:09 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/haste_potion": {
+    "criteria": {
+      "has_items": "2026-08-08 05:57:28 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sulfur_chunk": {
+    "criteria": {
+      "sulfur_chunk": "2026-08-08 05:58:18 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2026-08-08 05:59:01 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2026-08-08 06:03:50 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2026-08-08 06:09:25 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2026-08-08 06:11:44 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2026-08-08 06:14:53 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2026-08-08 06:36:31 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2026-08-08 06:37:40 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2026-08-08 06:38:36 +0000"
+    },
+    "done": true
+  },
+  "create:potato_cannon": {
+    "criteria": {
+      "0": "2026-08-08 06:42:38 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2026-08-08 06:46:03 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2026-08-08 06:46:07 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2026-08-08 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "moped:copper_moped_root": {
+    "criteria": {
+      "copper_moped_root": "2026-08-08 06:53:10 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2026-08-08 06:59:57 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2026-08-08 07:11:04 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2026-08-08 07:19:16 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2026-08-08 07:21:46 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2026-08-08 07:48:37 +0000"
+    },
+    "done": true
+  },
+  "create_connected:brass_gearbox": {
+    "criteria": {
+      "0": "2026-08-08 07:48:37 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2026-08-08 07:51:29 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/blackpowder/blunderbuss": {
+    "criteria": {
+      "blunderbuss": "2026-08-08 07:54:32 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2026-08-08 08:02:54 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2026-08-08 17:22:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2026-08-08 17:49:08 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2026-08-08 18:03:18 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2026-08-08 18:12:01 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2026-08-10 03:48:05 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:get_soul_lamp": {
+    "criteria": {
+      "requirement": "2026-08-10 03:56:18 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2026-08-10 04:07:44 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2026-08-10 04:11:26 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "is_cursed_one": "2026-08-10 04:11:26 +0000"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "incompletable": "2026-08-10 04:23:35 +0000",
+      "is_cursed_one": "2026-08-10 04:11:26 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/cursed_ring": {
+    "criteria": {
+      "fruit": "2026-08-10 04:11:26 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-08-10 04:23:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-08-13 02:48:29 +0000",
+      "opened_chest": "2026-08-10 04:23:17 +0000"
+    },
+    "done": false
+  },
+  "tetra:scrolls/find_scroll_key_guard": {
+    "criteria": {
+      "find": "2026-08-10 04:23:18 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2026-08-10 04:23:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2026-08-10 04:23:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2026-08-10 04:24:26 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/earth_heart": {
+    "criteria": {
+      "has_items": "2026-08-10 04:33:22 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2026-08-10 04:58:19 +0000"
+    },
+    "done": true
+  },
+  "tempad:tempad": {
+    "criteria": {
+      "requirement": "2026-08-10 05:02:11 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2026-08-10 18:52:41 +0000"
+    },
+    "done": true
+  },
+  "thinair:signal_torch": {
+    "criteria": {
+      "use": "2026-08-10 19:02:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/artificial_flower": {
+    "criteria": {
+      "has_items": "2026-08-10 19:49:41 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2026-08-10 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/recall_potion": {
+    "criteria": {
+      "has_items": "2026-08-10 21:02:45 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2026-08-10 21:02:45 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2026-08-10 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2026-08-10 22:56:34 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2026-08-10 23:08:29 +0000"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2026-08-10 23:14:48 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2026-08-10 23:51:14 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/lore_inscriber": {
+    "criteria": {
+      "etherium": "2026-08-11 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "create:steam_whistle": {
+    "criteria": {
+      "0": "2026-08-11 18:49:48 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/void_stone": {
+    "criteria": {
+      "has_items": "2026-08-11 20:15:44 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/krauser": {
+    "criteria": {
+      "krauser": "2026-08-11 21:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-08-11 21:17:32 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/molten_heart_potion": {
+    "criteria": {
+      "has_items": "2026-08-11 21:17:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2026-08-11 21:23:33 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2026-08-11 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "tempad:he_who_remains": {
+    "criteria": {
+      "requirement": "2026-08-12 20:59:52 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2026-08-12 22:05:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2026-08-12 22:58:04 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2026-08-12 22:59:16 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_large_casing_mold": {
+    "criteria": {
+      "large_casing_mold": "2026-08-12 22:59:53 +0000"
+    },
+    "done": true
+  },
+  "tetra:scrolls/find_scroll_mace": {
+    "criteria": {
+      "find": "2026-08-12 23:01:09 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/antique_bag": {
+    "criteria": {
+      "has_items": "2026-08-12 23:01:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-08-12 23:05:42 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2026-08-12 23:12:58 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "old_eye": "2026-08-12 23:12:58 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/cowboy/saketini": {
+    "criteria": {
+      "saketini": "2026-08-12 23:17:48 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2026-08-12 23:20:34 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2026-08-13 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2026-08-13 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2026-08-13 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2026-08-13 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/workbench": {
+    "criteria": {
+      "hammer": "2026-08-13 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/workbench": {
+    "criteria": {
+      "hammer": "2026-08-13 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "tetra:art_of_forging/root": {
+    "criteria": {
+      "double": "2026-08-13 01:17:42 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_2": {
+    "criteria": {
+      "stone_left": "2026-08-13 01:17:42 +0000",
+      "stone_right": "2026-08-13 01:17:53 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_left": "2026-08-13 01:19:19 +0000",
+      "head_right": "2026-08-13 01:19:10 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode_open": {
+    "criteria": {
+      "consume_geode": "2026-08-13 01:21:50 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_upgrade": {
+    "criteria": {
+      "module": "2026-08-13 01:29:05 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/executioner_upgrade": {
+    "criteria": {
+      "module": "2026-08-13 01:29:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2026-08-13 01:46:56 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/percussion_scanner": {
+    "criteria": {
+      "use": "2026-08-13 01:48:24 +0000",
+      "craft": "2026-08-13 01:47:12 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/sweeper": {
+    "criteria": {
+      "sweeper": "2026-08-13 01:47:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/place_holosphere": {
+    "criteria": {
+      "use": "2026-08-13 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2026-08-13 02:11:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-08-13 02:48:29 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2026-08-13 02:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2026-08-13 02:51:20 +0000"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/materials/ichor_droplet": {
+    "criteria": {
+      "has_items": "2026-08-13 02:53:07 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/blazing_core": {
+    "criteria": {
+      "has_items": "2026-08-13 02:55:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2026-08-13 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2026-08-13 03:22:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sculptor_challenge": {
+    "criteria": {
+      "sculptor_challenge": "2026-08-13 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/refill_cell": {
+    "criteria": {
+      "refill_cell": "2026-08-13 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_cell": {
+    "criteria": {
+      "get_cell": "2026-08-13 04:54:36 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2026-08-13 19:00:46 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/cowboy/callwell": {
+    "criteria": {
+      "callwell": "2026-08-13 19:10:01 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/containers": {
+    "criteria": {
+      "crate1": "2026-08-13 19:11:11 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/forged_mesh": {
+    "criteria": {
+      "got_mesh": "2026-08-13 19:11:19 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_bolt": {
+    "criteria": {
+      "forged_bolt": "2026-08-13 19:13:11 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/destabilized_item": {
+    "criteria": {
+      "destabilize": "2026-08-13 19:28:01 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/enchant_item": {
+    "criteria": {
+      "workbench": "2026-08-13 19:28:01 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/chthonic_extractor": {
+    "criteria": {
+      "earthpiercer": "2026-08-13 19:37:04 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_planar": {
+    "criteria": {
+      "find_planar": "2026-08-13 19:37:12 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_codex": {
+    "criteria": {
+      "codex": "2026-08-13 19:53:35 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_latch": {
+    "criteria": {
+      "find_latch": "2026-08-13 20:00:27 +0000"
+    },
+    "done": false
+  },
+  "tetra:spelunking/hammer_remove": {
+    "criteria": {
+      "module": "2026-08-13 20:49:46 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_fix": {
+    "criteria": {
+      "fuel": "2026-08-13 20:50:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_jam": {
+    "criteria": {
+      "fuel": "2026-08-13 20:51:26 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_integrity": {
+    "criteria": {
+      "module": "2026-08-13 20:55:28 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_power": {
+    "criteria": {
+      "module": "2026-08-13 20:57:21 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_craft": {
+    "criteria": {
+      "craft": "2026-08-14 15:36:05 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_5": {
+    "criteria": {
+      "head_left": "2026-08-14 15:36:05 +0000"
+    },
+    "done": false
+  },
+  "tetra:spelunking/hammer_unjam": {
+    "criteria": {
+      "crit1": "2026-08-14 15:37:22 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_hone": {
+    "criteria": {
+      "blade_hone/damage": "2026-08-14 15:54:32 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_gild": {
+    "criteria": {
+      "find": "2026-08-15 19:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2026-08-15 19:19:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2026-08-15 19:21:54 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/rack": {
+    "criteria": {
+      "rack": "2026-08-15 19:24:41 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2026-08-15 19:28:42 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2026-08-15 19:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-08-15 22:48:41 +0000",
+      "minecraft:basalt_deltas": "2026-08-15 19:30:10 +0000"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2026-08-15 19:39:24 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2026-08-15 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "smoked_ham": "2026-08-15 19:55:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/darkest_scroll": {
+    "criteria": {
+      "has_items": "2026-08-15 19:56:06 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/discover_scroll": {
+    "criteria": {
+      "spellstone": "2026-08-15 19:56:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2026-08-15 20:11:35 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/etherium_ore": {
+    "criteria": {
+      "generic_revelation": "2026-08-15 20:27:30 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2026-08-15 22:33:37 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "axe": "2026-08-15 22:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-08-15 23:00:15 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/cleanse_item": {
+    "criteria": {
+      "cleanse": "2026-08-15 23:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2026-08-17 21:58:47 +0000"
+    },
+    "done": true
+  },
+  "tetra:scrolls/get_scroll_murasama": {
+    "criteria": {
+      "find": "2026-08-17 22:49:56 +0000"
+    },
+    "done": true
+  },
+  "tetra:scrolls/get_scroll_katana": {
+    "criteria": {
+      "find": "2026-08-17 23:11:02 +0000"
+    },
+    "done": true
+  },
+  "tetra:art_of_forging/katana_upgrade": {
+    "criteria": {
+      "module": "2026-08-17 23:12:37 +0000"
+    },
+    "done": true
+  },
+  "tetra:art_of_forging/murasama_blade": {
+    "criteria": {
+      "murasama_imprv": "2026-08-17 23:13:37 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_improvement_hone": {
+    "criteria": {
+      "tempered": "2026-08-17 23:16:18 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

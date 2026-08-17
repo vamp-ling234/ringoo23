@@ -1,0 +1,19 @@
+{
+	id: "cc4f017b-a0d9-329f-93d3-a66a4f71e13c"
+	type: "player"
+	player_name: "Megatuber06"
+	ranks: {
+		cc4f017b-a0d9-329f-93d3-a66a4f71e13c: "owner"
+	}
+	properties: {
+		"teamsfriendlyfire:pvp_between_members": 0b
+		"teamsfriendlyfire:pvp_between_allies": 0b
+		"ftbteams:display_name": "Megatuber06"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFDA59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
